@@ -10,7 +10,7 @@ package javaapplication2;
  *
  * @author kylederosa
  */
-public class Bicycle {
+class Bicycle {
 
     int cadence = 0;
     int speed = 0;

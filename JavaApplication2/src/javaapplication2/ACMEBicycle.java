@@ -10,7 +10,7 @@ package javaapplication2;
  *
  * @author kylederosa
  */
-public class ACMEBicycle implements BicycleInterface {
+class ACMEBicycle implements BicycleInterface {
     
     int cadence = 0;
     int speed = 0;
